@@ -1,0 +1,4 @@
+interface:
+  display_name: "产品 VOC 分析与文档交付"
+  short_description: "清洗多平台真实评论，生成防误归因的结构化VOC分析"
+  default_prompt: "使用 $analyze-product-voc 分析这些产品评论，并按平台分栏生成可编辑的结构化 VOC 文档。"
